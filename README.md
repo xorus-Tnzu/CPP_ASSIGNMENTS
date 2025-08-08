@@ -20,13 +20,26 @@ These are all my assignment questions given by college professor in due course.
                                   o	A default constructor (sets length and breadth to 1)
                                   o	A parameterized constructor 
 
-### `Question 3`: [6.	Create a class Student that uses a copy constructor to copy the details from one student to another.]()
+### `Question 6`: [6.	Create a class Student that uses a copy constructor to copy the details from one student to another.]()
 
 
 ## `TOPIC-III: Function Overloading`
+
+### `Question 7`: [Create a class Calculator with overloaded methods add() to:---]()
+                                  o	Add two integers
+                                  o	Add two floats
+                                  o	Add one int and one float
+
+### `Question 8`: [Create a class Volume with overloaded functions to calculate:---]()
+                                  o	Volume of a cube
+                                  o	Volume of a cylinder
+                                  o	Volume of a cuboid
+
+                                  
+## `TOPIC-I: Class & Object`
 
 ### `Question 1`: [1.	Define a class Book with attributes like title, author, and price. Create objects and display their details.](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-1.Class%20and%20Object/Q1/Book.cpp) 
 
 ### `Question 2`: [Create a class BankAccount with accountNumber, holderName, and balance. Write functions to deposit and withdraw money.]() 
 
-### `Question 3`: [3.	Define a class Employee with data members like id, name, and salary. Create an array of objects and input/display the data.]()
+### `Question 3`: [Define a class Employee with data members like id, name, and salary. Create an array of objects and input/display the data.]()
