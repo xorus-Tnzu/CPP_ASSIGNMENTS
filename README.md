@@ -76,13 +76,34 @@ ___
                           o	Update price and quantity
                           o	Add a method to calculate total value in stock.
 
-### `Question 15`: [Create a class Counter with a static data member to count the number of objects created]() 
+### `Question 15`: [Define a class Book with members: title, author, ISBN, and availability.]()
+                          o	Use constructors for initialization.
+                          o	Use a static member to keep count of total books issued.
+                          o	Overload issueBook() to:
+                          o	Issue a book by title
+                        o	Issue a book by ISBN
 
-### `Question 16`: [Define a class Student that keeps track of the total number of students using a static data member and a static function.]() 
+### `Question 16`: [Class Student: name, roll, marks in 3 subjects.]()
+                          o	Use parameterized constructor.
+                          o	Use a method to calculate total and average.
+                          o	Add a static member to keep track of total students created.
+                          o	Add a function grade() to return grade based on average marks
 
-### `Question 17`: [Create a class Company that keeps a static count of how many employees were added using a function addEmployee().]()
+### `Question 17`: [Class Order: orderID, customerName, amount, shippingCost.]()
+                          o	Constructor initializes values.
+                          o	Overload function calculateTotal():
+                          o	One version returns only amount
+                          o	Another version adds shipping cost
+                          o	Static member to track number of orders placed.
 
-### `Question 18`: [Create a class Counter with a static data member to count the number of objects created]() 
+
+### `Question 18`: [Class BankAccount:---]()
+                          o	Data: accountNumber, name, balance
+                          o	Static member: interestRate
+                          o	Methods: deposit, withdraw, display
+                          o	static function setInterestRate()
+                          o	Constructor to initialize accounts
+                          o	Copy constructor to create a duplicate account
 
 ### `Question 19`: [Define a class Student that keeps track of the total number of students using a static data member and a static function.]() 
 
