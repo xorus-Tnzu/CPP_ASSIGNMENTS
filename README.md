@@ -31,12 +31,12 @@ ___
 ## `TOPIC-III: Function Overloading`
 
 
-### `Question 7`: [Create a class Calculator with overloaded methods add() to:---]()
+### `Question 7`: [Create a class Calculator with overloaded methods add() to:---](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-3.Function%20Overloading/Q7/Calculator.cpp)
                                   o	Add two integers
                                   o	Add two floats
                                   o	Add one int and one float
 
-### `Question 8`: [Create a class Volume with overloaded functions to calculate:---]()
+### `Question 8`: [Create a class Volume with overloaded functions to calculate:---](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-3.Function%20Overloading/Q8/Volume.cpp)
                                   o	Volume of a cube
                                   o	Volume of a cylinder
                                   o	Volume of a cuboid
@@ -46,11 +46,11 @@ ___
 ## `TOPIC-IV: Static Data Members & Static Functions`
 
 
-### `Question 9`: [Create a class Counter with a static data member to count the number of objects created]() 
+### `Question 9`: [Create a class Counter with a static data member to count the number of objects created](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-4.Static%20Data%20Members%20and%20Static%20Functions/Q9/Counter.cpp) 
 
-### `Question 10`: [Define a class Student that keeps track of the total number of students using a static data member and a static function.]() 
+### `Question 10`: [Define a class Student that keeps track of the total number of students using a static data member and a static function.](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-4.Static%20Data%20Members%20and%20Static%20Functions/Q10/Student2.cpp) 
 
-### `Question 11`: [Create a class Company that keeps a static count of how many employees were added using a function addEmployee().]()
+### `Question 11`: [Create a class Company that keeps a static count of how many employees were added using a function addEmployee().](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-4.Static%20Data%20Members%20and%20Static%20Functions/Q11/Company.cpp)
 
 ___
 
