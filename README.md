@@ -57,8 +57,37 @@ ___
 ## `TOPIC-V: Integrative Problems`
 
 
-### `Question 9`: [Create a class Counter with a static data member to count the number of objects created]() 
+### `Question 12`: [Create a class BankAccount that includes:---]()
+                          o	Static interest rate shared by all accounts
+                          o	Constructors to initialize new accounts
+                          o	Methods for deposit/withdraw
+                          o	A static function to change the interest rate
 
-### `Question 10`: [Define a class Student that keeps track of the total number of students using a static data member and a static function.]() 
+### `Question 13`: [Create a class Time that supports:---]()
+                          o	Function overloading for adding hours, minutes, and seconds
+                          o	Constructors (default and parameterized)
+                          o	Display function in HH:MM:SS format
 
-### `Question 11`: [Create a class Company that keeps a static count of how many employees were added using a function addEmployee().]()
+### `Question 14`: [Create a class Product with fields: productID, name, price, and quantity.]()
+                          o	Use constructors to initialize values.
+                          o	Use static member to count how many products were added.
+                          o	Overload a method update() to:
+                          o	Update only price
+                          o	Update price and quantity
+                          o	Add a method to calculate total value in stock.
+
+### `Question 15`: [Create a class Counter with a static data member to count the number of objects created]() 
+
+### `Question 16`: [Define a class Student that keeps track of the total number of students using a static data member and a static function.]() 
+
+### `Question 17`: [Create a class Company that keeps a static count of how many employees were added using a function addEmployee().]()
+
+### `Question 18`: [Create a class Counter with a static data member to count the number of objects created]() 
+
+### `Question 19`: [Define a class Student that keeps track of the total number of students using a static data member and a static function.]() 
+
+### `Question 20`: [Create a class Company that keeps a static count of how many employees were added using a function addEmployee().]()
+
+### `Question 21`: [Create a class Counter with a static data member to count the number of objects created]() 
+
+___
