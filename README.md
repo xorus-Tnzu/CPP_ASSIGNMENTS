@@ -7,7 +7,7 @@ These are all my assignment questions given by college professor in due course.
 ## `TOPIC-I: Class & Object`
 
 
-### `Question 1`: [1.	Define a class Book with attributes like title, author, and price. Create objects and display their details.](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-1.Class%20and%20Object/Q1/Book.cpp) 
+### `Question 1`: [Define a class Book with attributes like title, author, and price. Create objects and display their details.](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-1.Class%20and%20Object/Q1/Book.cpp) 
 
 ### `Question 2`: [Create a class BankAccount with accountNumber, holderName, and balance. Write functions to deposit and withdraw money.](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-1.Class%20and%20Object/Q2/BankAccount.cpp) 
 
@@ -57,18 +57,18 @@ ___
 ## `TOPIC-V: Integrative Problems`
 
 
-### `Question 12`: [Create a class BankAccount that includes:---]()
+### `Question 12`: [Create a class BankAccount that includes:---](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-5.Integrative%20Problems/Q12/BankAccount2.cpp)
                           o	Static interest rate shared by all accounts
                           o	Constructors to initialize new accounts
                           o	Methods for deposit/withdraw
                           o	A static function to change the interest rate
 
-### `Question 13`: [Create a class Time that supports:---]()
+### `Question 13`: [Create a class Time that supports:---](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-5.Integrative%20Problems/Q13/Time.cpp)
                           o	Function overloading for adding hours, minutes, and seconds
                           o	Constructors (default and parameterized)
                           o	Display function in HH:MM:SS format
 
-### `Question 14`: [Create a class Product with fields: productID, name, price, and quantity.]()
+### `Question 14`: [Create a class Product with fields: productID, name, price, and quantity.](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-5.Integrative%20Problems/Q14/Product.cpp)
                           o	Use constructors to initialize values.
                           o	Use static member to count how many products were added.
                           o	Overload a method update() to:
@@ -76,14 +76,14 @@ ___
                           o	Update price and quantity
                           o	Add a method to calculate total value in stock.
 
-### `Question 15`: [Define a class Book with members: title, author, ISBN, and availability.]()
+### `Question 15`: [Define a class Book with members: title, author, ISBN, and availability.](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-5.Integrative%20Problems/Q15/Book2.cpp)
                           o	Use constructors for initialization.
                           o	Use a static member to keep count of total books issued.
                           o	Overload issueBook() to:
                           o	Issue a book by title
                         o	Issue a book by ISBN
 
-### `Question 16`: [Class Student: name, roll, marks in 3 subjects.]()
+### `Question 16`: [Class Student: name, roll, marks in 3 subjects.](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-5.Integrative%20Problems/Q16/Student2.cpp)
                           o	Use parameterized constructor.
                           o	Use a method to calculate total and average.
                           o	Add a static member to keep track of total students created.
