@@ -105,10 +105,25 @@ ___
                           o	Constructor to initialize accounts
                           o	Copy constructor to create a duplicate account
 
-### `Question 19`: [Define a class Student that keeps track of the total number of students using a static data member and a static function.]() 
+### `Question 19`: [Class Ticket: movieName, ticketNo, seatNo, price ]()
+                          o	Use static variable to generate unique ticket numbers.
+                          o	Use constructor to initialize ticket.
+                          o	Overload printTicket() to:
+                          o	Print summary
+                          o	Print full details including price and seat
 
-### `Question 20`: [Create a class Company that keeps a static count of how many employees were added using a function addEmployee().]()
+### `Question 20`: [Class Vehicle: owner, vehicleType, regNumber ]()
+                          o	Static member to auto-increment registration number
+                          o	Constructor to initialize
+                          o	Overload a function display() to:
+                          o	Show basic info
+                          o	Show full info (with regNumber)
 
-### `Question 21`: [Create a class Counter with a static data member to count the number of objects created]() 
+### `Question 21`: [Class Course: courseID, courseName, fees, enrolledStudents ]()
+                          o	Use constructor to set course data
+                          o	Use static variable to keep track of total enrollments
+                          o	Overload enroll() to:
+                          o	Enroll by student name
+                          o	Enroll by student name and email
 
 ___
