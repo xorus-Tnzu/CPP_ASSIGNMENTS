@@ -89,7 +89,7 @@ ___
                           o	Add a static member to keep track of total students created.
                           o	Add a function grade() to return grade based on average marks
 
-### `Question 17`: [Class Order: orderID, customerName, amount, shippingCost.]()
+### `Question 17`: [Class Order: orderID, customerName, amount, shippingCost.](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-5.Integrative%20Problems/Q17/Order.cpp)
                           o	Constructor initializes values.
                           o	Overload function calculateTotal():
                           o	One version returns only amount
@@ -97,7 +97,7 @@ ___
                           o	Static member to track number of orders placed.
 
 
-### `Question 18`: [Class BankAccount:---]()
+### `Question 18`: [Class BankAccount:---](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-5.Integrative%20Problems/Q18/BankAccount3.cpp)
                           o	Data: accountNumber, name, balance
                           o	Static member: interestRate
                           o	Methods: deposit, withdraw, display
@@ -105,14 +105,14 @@ ___
                           o	Constructor to initialize accounts
                           o	Copy constructor to create a duplicate account
 
-### `Question 19`: [Class Ticket: movieName, ticketNo, seatNo, price ]()
+### `Question 19`: [Class Ticket: movieName, ticketNo, seatNo, price ](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-5.Integrative%20Problems/Q19/movieTicket.cpp)
                           o	Use static variable to generate unique ticket numbers.
                           o	Use constructor to initialize ticket.
                           o	Overload printTicket() to:
                           o	Print summary
                           o	Print full details including price and seat
 
-### `Question 20`: [Class Vehicle: owner, vehicleType, regNumber ]()
+### `Question 20`: [Class Vehicle: owner, vehicleType, regNumber ](https://github.com/xorus-Tnzu/CPP_ASSIGNMENTS/blob/main/ASSIGNMENT-1/Topic-5.Integrative%20Problems/Q20/Vehicle.cpp)
                           o	Static member to auto-increment registration number
                           o	Constructor to initialize
                           o	Overload a function display() to:
